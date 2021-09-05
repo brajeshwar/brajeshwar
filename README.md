@@ -1,8 +1,11 @@
-# Brajeshwar
+My name is Brajeshwar Oinam.
 
-> I design experiences, opportunities, careers, teams, products, and organizations.
+I am an entrepreneur, and technologist, with a deep focus on leadership in products and designs. I have been a developer, designer, and creative product direction with a track record of building products and leading teams.
 
-- [Personal](https://brajeshwar.com)
-- [Blog](https://brajeshwar.com/blog/)
+I write about design, entrepreneurship, productivity, software, startups, and technology. View all of the articles in the [blog](https://brajeshwar.com/blog/).
+
+Know more;
+
+- [Website](https://brajeshwar.com)
 - [About](https://brajeshwar.com/about/)
-- [CV](https://cv.brajeshwar.com)
+- [Curriculum Vitae](https://cv.brajeshwar.com)
