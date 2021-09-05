@@ -4,8 +4,4 @@ I am an entrepreneur, and technologist, with a deep focus on leadership in produ
 
 I write about design, entrepreneurship, productivity, software, startups, and technology. View all of the articles in the [blog](https://brajeshwar.com/blog/).
 
-Know more;
-
-- [Website](https://brajeshwar.com)
-- [About](https://brajeshwar.com/about/)
-- [Curriculum Vitae](https://cv.brajeshwar.com)
+Learn more [about me](https://brajeshwar.com/about/) or view my [Curriculum Vitae](https://cv.brajeshwar.com). I have been running my personal website, [brajeshwar.com](https://brajeshwar.com), since Jul 11, 2001.
